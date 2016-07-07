@@ -1,0 +1,21 @@
+{
+  "name": "my-ttt-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stats-mm-mm.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "brain.js": "^0.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "",
+  "license": "MIT"
+}
