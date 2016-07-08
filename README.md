@@ -46,3 +46,7 @@ This project uses
 * mocha (https://github.com/mochajs/mocha)
 
 I used TensorFlow (https://www.tensorflow.org/) to figure out the shape of required NN - it is really fast!
+
+Why callbacks and process.nextTick???
+-------------------------------------
+The project was designed with idea to allow a human player to play with AI.
